@@ -103,15 +103,15 @@ Git • GitHub • VS Code • Postman
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pavansalunkhe88&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavansalunkhe88&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavansalunkhe88&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavansalunkhe88&theme=tokyonight&hide_border=true&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansalunkhe88&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansalunkhe88&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
