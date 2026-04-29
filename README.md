@@ -99,7 +99,7 @@ Git • GitHub • VS Code • Postman
 ## 💬 Dev Quote
 
 <p align="center">
-<i>"Code. Debug. Learn. Repeat."</i>
+<i>“Simplicity is the soul of efficiency.” – Austin Freeman"</i>
 </p>
 
 ---
