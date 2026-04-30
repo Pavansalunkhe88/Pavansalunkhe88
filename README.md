@@ -122,8 +122,7 @@ Git • GitHub • VS Code • Postman
 
 ## 🧑‍💻 Developer Mindset
 
-- 💡 Think → Build → Improve → Repeat  
-- 🚀 Focus on solving real-world problems  
+- 💡 Think → Build → Improve → Repeat    
 - 🔥 Consistency over motivation  
 
 ---
