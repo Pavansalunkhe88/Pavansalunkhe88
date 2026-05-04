@@ -26,7 +26,7 @@ Full Stack Developer | MERN Stack | Problem Solver 🚀
 ## 🧠 Weekly Development Breakdown
 JavaScript ████████████░░░░ 60%
 
-React █████████░░░░░░░ 45%
+React █████░░░░░░░ 30%
 
 Node.js ████░░░░░░░ 30%
 
