@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Problem Solver 🚀
+Full Stack Developer | MERN Stack | Problem Solver 
 </h3>
 
 <p align="center">
