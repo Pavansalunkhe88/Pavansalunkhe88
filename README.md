@@ -19,7 +19,7 @@ Full Stack Developer | MERN Stack | Problem Solver
 - 🔭 Currently building **NovaForge**  
 - 🌱 Learning **React Advanced Concepts, Backend Optimization & DevOps**  
 - 💡 Passionate about **real-world scalable applications**  
-- ⚡ Focus on **clean UI, performance & user experience**  
+- ⚡ Focus on **clean UI, performance**  
 
 ---
 
