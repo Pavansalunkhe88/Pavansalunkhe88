@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6a11cb,50:8e2de2,100:4a00e0&text=Pavan%20Salunkhe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Information Technology+Student;MERN+Stack+Developer;Generative AI Developer;LangChain Developer;JavaScript;GenAI;Building AI-Powered Applications;Building+Scalable+Digital+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Information+Technology+Student;MERN+Stack+Developer;Generative+AI+Developer;LangChain+Developer;JavaScript;GenAI;Building+AI-Powered+Applications;Building+Scalable+Digital+Solutions"/>
 
 <br>
 
