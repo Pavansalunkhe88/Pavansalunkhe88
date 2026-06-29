@@ -41,7 +41,7 @@ My interests span across:
 - MERN Stack Engineering
 - Data Structures & Algorithms
 - Cloud & DevOps
-- GenAI
+
 
 I enjoy transforming ideas into impactful digital products and continuously improving my engineering skills through projects, problem solving, and real-world development.
 
