@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Javascript-6A11CB?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GenAI-8E2DE2?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/ReactJS-4A00E0?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Python-4A00E0?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![](https://img.shields.io/badge/Location-Pune,Maharashtra-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white)
 
