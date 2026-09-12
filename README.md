@@ -41,7 +41,7 @@ My interests span across:
 - Full Stack Web Development
 - MERN Stack Engineering
 - Data Structures & Algorithms
-- Cloud & DevOps
+
 
 
 I enjoy transforming ideas into impactful digital products and continuously improving my engineering skills through projects, problem solving, and real-world development.
