@@ -133,7 +133,7 @@ I enjoy transforming ideas into impactful digital products and continuously impr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavansalunkhe88&theme=tokyo-night"/>
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Pavansalunkhe88&theme=shades-of-purple&show_icons=true"/>
 
 </div>
 
