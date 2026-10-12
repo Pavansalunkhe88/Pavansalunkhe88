@@ -99,7 +99,7 @@ I enjoy transforming ideas into impactful digital products and continuously impr
 | Frontend Development   | Advanced     | Responsive UI development using React.js, Tailwind CSS, HTML5, CSS3, and JavaScript  |
 | Backend Development    | Intermediate | RESTful APIs, JWT Authentication, Express.js, Node.js, and MVC Architecture          |
 | Database Management    | Intermediate | MongoDB, Mongoose, CRUD Operations, Aggregation, and SQL Fundamentals                |
-| Generative AI          | Intermediate | AI-powered web applications, LLM integration, Prompt Engineering, and AI Workflows   |
+| Generative AI          | Intermediate | AI-powered web applications, LLM integration, Prompt Engineering, and FastAPI  |
 | LangChain & AI Agents  | Intermediate | Multi-LLM applications, AI Agents, Chains, Memory, and Tool Calling with LangChain   |
 | Prompt Engineering     | Intermediate | Designing optimized prompts for LLMs, structured outputs, and AI-assisted automation |
 | DevOps & Cloud         | Beginner     | Docker, AWS, Git, GitHub, deployment, and CI/CD fundamentals                         |
