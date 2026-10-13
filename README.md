@@ -102,7 +102,7 @@ I enjoy transforming ideas into impactful digital products and continuously impr
 | Generative AI          | Intermediate | AI-powered web applications, LLM integration, Prompt Engineering, and FastAPI  |
 | LangChain & AI Agents  | Intermediate | Multi-LLM applications, AI Agents, Chains, Memory, and Tool Calling with LangChain   |
 | Prompt Engineering     | Intermediate | Designing optimized prompts for LLMs, structured outputs, and AI-assisted automation |
-| DevOps & Cloud         | Beginner     | Docker, AWS, Git, GitHub, deployment, and CI/CD fundamentals                         |
+| DevOps & Cloud         | Beginner     | Docker, AWS, Git, GitHub, deployment                        |
 
 
 # GitHub Analytics
