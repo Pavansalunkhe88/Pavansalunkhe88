@@ -155,7 +155,6 @@ I enjoy transforming ideas into impactful digital products and continuously impr
 Learning:
   - Advanced React
   - Next.js
-  - Java Backend Development
   - Data Structures & Algorithms
 
 Building:
