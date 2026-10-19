@@ -172,7 +172,7 @@ Open_To:
   - Internships
   - Software Engineering Roles
   - Freelance Opportunities
-  - Open Source Projects
+
 ```
 
 ---
